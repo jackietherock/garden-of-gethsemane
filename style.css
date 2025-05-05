@@ -3,3 +3,11 @@ table{
   height: 700px;
   border: 1px solid black;
 }
+button{
+  color: aqua;
+  border-radius: 50%;
+  &:hover{
+    cursor: pointer;
+    transform: rotate(30deg)
+  }
+}
