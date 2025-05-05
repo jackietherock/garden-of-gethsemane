@@ -11,3 +11,7 @@ button{
     transform: rotate(30deg)
   }
 }
+body{
+  background-color: black;
+  color: white;
+}
