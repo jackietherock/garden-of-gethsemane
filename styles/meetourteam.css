@@ -1,0 +1,27 @@
+.namesfluid{
+  display: flex;
+  justify-content: space-between;
+}
+.namesfluid img{
+  width: 90%;
+}
+.separateimg{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.marginhere{
+  margin-top: 20px;
+  font-family: Montserrat;
+}
+.position{
+  font-size: 13px;
+  color: #999999;
+  font-style: italic;
+  font-family: Roboto;
+}
+.logos img{
+  width: 100%
+}
+

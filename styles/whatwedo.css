@@ -1,0 +1,83 @@
+.whatwedop{
+  width: 900px;
+  margin: auto;
+  line-height: 20px;
+}
+.whatwedoimg{
+  float: left;
+  margin-right: 25px;
+  width: 50%;
+}
+.whatwedoparagraph{
+  display: flex;
+  align-items: center;
+  border: 1px solid #E5E5E5;
+  padding: 10px;
+  &:hover{
+    cursor: pointer;
+    transition: 1s;
+  }
+}
+.marginhere{
+  margin-bottom: 10px;
+}
+.marginp{
+  margin-left: 10px;
+  font-family: Montserrat;
+  font-size: 13px;
+}
+.arrow{
+  margin-left: 320px;
+  height: 30px;
+}
+.active, .whatwedoparagraph:hover{
+  background-color: grey;
+}
+.fckthis{
+  background-color: #F8F8F8;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px 180px;
+}
+.speech{
+  float: left;
+}
+
+.fcktext{
+  width: 600px;
+  text-align: left;
+  line-height: 25px;
+  margin-top: 5px;
+  margin-left: 220px;
+  font-family: Roboto;
+  font-style: italic;
+  color: #999999;
+}
+.fckthis3{
+  display: flex;
+  align-items: center;
+  text-align: left;
+  margin-top: 20px;
+}
+.fckthis3 hr{
+  height: 5px;
+  margin-bottom: 30px;
+  margin-left: 63px;
+}
+.fckthis3 p{
+  margin-left: 10px;
+  font-family: Kaushan Script;
+}
+
+
+
+
+
+
+
+
+
+
+
+
