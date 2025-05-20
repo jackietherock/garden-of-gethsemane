@@ -1,0 +1,14 @@
+.latestblog{
+  margin-top: 40px;
+
+}
+.latestblog hr{
+  border-color: red;
+  background-color: red;
+  width: 100px;
+}
+.latestblog1img{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}

@@ -5,6 +5,7 @@
 @import url(./styles/meetourteam.css);
 @import url(./styles/someofourwork.css);
 @import url(./styles/happyclients.css);
+@import url(./styles/ourstories.css);
 .container-fluid{
   width: 100%;
   box-sizing: border-box;
