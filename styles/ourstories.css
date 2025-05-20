@@ -1,14 +1,12 @@
 .latestblog{
-  margin-top: 40px;
-
-}
-.latestblog hr{
-  border-color: red;
-  background-color: red;
-  width: 100px;
-}
-.latestblog1img{
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-between;
+}
+.firstimgoftheblog{
+  display: flex;
   flex-direction: column;
+  justify-content: flex-start;
+}
+.firstimgoftheblog p{
+  text-align: start;
 }
